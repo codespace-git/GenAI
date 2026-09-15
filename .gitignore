@@ -3,3 +3,5 @@
 kagglehub
 resized_dataset
 generated
+vae.ipynb
+vae_ablation_results.csv
